@@ -23,6 +23,6 @@ Example:
 s = {1, 2, 3}
 
 ## Key Difference
-List → mutable
+List → mutable i
 Tuple → immutable
 Set → unique values only

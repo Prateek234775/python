@@ -20,6 +20,6 @@ print(data[1])
 s = {10, 20, 30, 20}
 
 print(s)
-
+s.remove(30)
 s.add(40)
 print(s)
